@@ -1,0 +1,22 @@
+{
+  "name": "heyushuo",
+  "authors": [
+    "heyushuo <1007561607@qq.com>"
+  ],
+  "description": "heyushuo",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "axios": "^0.17.1"
+  }
+}
